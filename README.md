@@ -28,9 +28,9 @@ What I have used for this project:
 > Note: `For using my files for Firebase, after you unzip the code downloaded, please update firebase folder name with prefix "." as of course it's a hidden folder and I was needed to rename it to be able to upload this to GIT. 
 So, instead of "firebase" folder please rename it into:".firebase" in Visual Code` 
 Hidden files that I wasn't able to upload and needs renaming:
-> "firebase" folder please rename it into:".firebase" in Visual Code
-> "env.dev" file from root, please rename it into:".env.dev" in Visual Code
-> "firebaserc" folder please rename it into:".firebaserc" in Visual Code
+- "firebase" folder please rename it into:".firebase" in Visual Code
+- "env.dev" file from root, please rename it into:".env.dev" in Visual Code
+- "firebaserc" folder please rename it into:".firebaserc" in Visual Code
 
 
 
