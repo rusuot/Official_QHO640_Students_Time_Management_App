@@ -1,5 +1,5 @@
 # Contemporary Web Applications (QHO640) - AE2
-# Project Title: Students Time Management web application 
+## Project Title: Students Time Management web application 
 
 ## Link to hosted web-app: 
 - https://contemporary-web-app-6f54f.web.app
@@ -27,6 +27,12 @@ What I have used for this project:
 > Note: `There are two approaches: either the Firebase data that I tried to include in GIT is used, or Firebase details needs to be updated with your personal`
 > Note: `For using my files for Firebase, after you unzip the code downloaded, please update firebase folder name with prefix "." as of course it's a hidden folder and I was needed to rename it to be able to upload this to GIT. 
 So, instead of "firebase" folder please rename it into:".firebase" in Visual Code` 
+Hidden files that I wasn't able to upload and needs renaming:
+> "firebase" folder please rename it into:".firebase" in Visual Code
+> "env.dev" file from root, please rename it into:".env.dev" in Visual Code
+> "firebaserc" folder please rename it into:".firebaserc" in Visual Code
+
+
 
 Steps to follow for project installation:
 1. Download the zip from GIT link: (need node.js)
